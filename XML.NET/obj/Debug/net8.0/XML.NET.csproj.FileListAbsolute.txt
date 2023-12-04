@@ -1,0 +1,14 @@
+C:\Users\K.Rrapaj\Desktop\XML.NET\bin\Debug\net8.0\XML.NET.exe
+C:\Users\K.Rrapaj\Desktop\XML.NET\bin\Debug\net8.0\XML.NET.deps.json
+C:\Users\K.Rrapaj\Desktop\XML.NET\bin\Debug\net8.0\XML.NET.runtimeconfig.json
+C:\Users\K.Rrapaj\Desktop\XML.NET\bin\Debug\net8.0\XML.NET.dll
+C:\Users\K.Rrapaj\Desktop\XML.NET\bin\Debug\net8.0\XML.NET.pdb
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.AssemblyInfoInputs.cache
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.AssemblyInfo.cs
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.csproj.CoreCompileInputs.cache
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.dll
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\refint\XML.NET.dll
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.pdb
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\XML.NET.genruntimeconfig.cache
+C:\Users\K.Rrapaj\Desktop\XML.NET\obj\Debug\net8.0\ref\XML.NET.dll
