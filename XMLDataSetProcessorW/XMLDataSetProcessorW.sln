@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDataSetProcessorW", "XMLDataSetProcessorW\XMLDataSetProcessorW.csproj", "{64D7B9EE-078F-43D6-80B8-EA8062B76BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D7B9EE-078F-43D6-80B8-EA8062B76BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D7B9EE-078F-43D6-80B8-EA8062B76BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D7B9EE-078F-43D6-80B8-EA8062B76BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D7B9EE-078F-43D6-80B8-EA8062B76BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

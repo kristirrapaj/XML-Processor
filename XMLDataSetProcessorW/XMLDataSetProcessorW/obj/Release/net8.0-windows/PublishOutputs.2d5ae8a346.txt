@@ -1,0 +1,5 @@
+C:\Users\K.Rrapaj\Downloads\WBBB\XMLDataSetProcessorW.exe
+C:\Users\K.Rrapaj\Downloads\WBBB\XMLDataSetProcessorW.dll
+C:\Users\K.Rrapaj\Downloads\WBBB\XMLDataSetProcessorW.deps.json
+C:\Users\K.Rrapaj\Downloads\WBBB\XMLDataSetProcessorW.runtimeconfig.json
+C:\Users\K.Rrapaj\Downloads\WBBB\XMLDataSetProcessorW.pdb

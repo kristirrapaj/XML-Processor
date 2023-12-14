@@ -1,0 +1,1455 @@
+ACC_MEZZI,Altro,Altro,False,False,True
+
+ACC_PRESC,Altro,Altro,False,False,True
+
+D_COMANDO_VALV,Altro,Altro,False,False,True
+
+D_COMANDO_VALV,Altro,Altro,False,False,True
+
+D_COMPARTO,Altro,Altro,False,False,True
+
+APPLICAZIONE,Altro,Altro,False,False,True
+
+COMANDO,Altro,Altro,False,False,True
+
+D_COMPARTO,Altro,Altro,False,False,True
+
+COMMESSA,Altro,Altro,False,False,True
+
+ATTIVA_FGN,Altro,Altro,False,False,True
+
+CONFIGURAZIONE,Altro,Altro,False,False,True
+
+D_COPERTURA,Altro,Altro,False,False,True
+
+ATTIVITA,Altro,Altro,False,False,True
+
+CONVENZIONE,Altro,Altro,False,False,True
+
+DOMAIN,Altro,Altro,False,False,True
+
+D_DEST_FANGHI,Altro,Altro,False,False,True
+
+DOMANDA,Altro,Altro,False,False,True
+
+D_DIGEST_ANAE,Altro,Altro,False,False,True
+
+DOMANDA_UTENZE,Altro,Altro,False,False,True
+
+BOTTINI,Altro,Altro,False,False,True
+
+COSTRUTTORE,Altro,Altro,False,False,True
+
+D_ESITO_INTERV,Altro,Altro,False,False,True
+
+CABINE_CORREL,Altro,Altro,False,False,True
+
+D_ESITO_MANOVRA,Altro,Altro,False,False,True
+
+D_ACC_CHIAVI,Altro,Altro,False,False,True
+
+CAMPI_LAYER,Altro,Altro,False,False,True
+
+CURVA_CARAT,Altro,Altro,False,False,True
+
+DELETE,Altro,Altro,False,False,True
+
+D_FUNZIONAM,Altro,Altro,False,False,True
+
+DELETED,Altro,Altro,False,False,True
+
+D_FUNZIONAM,Altro,Altro,False,False,True
+
+CERTIFICAZIONI,Altro,Altro,False,False,True
+
+D_FUNZIONAM_SCARICO,Altro,Altro,False,False,True
+
+D_AZIONAMENTO,Altro,Altro,False,False,True
+
+D_GERARCHIA_SAP,Altro,Altro,False,False,True
+
+D_GERARCHIA_SAP,Altro,Altro,False,False,True
+
+D_GRADO_PROTEZ,Altro,Altro,False,False,True
+
+D_RIV_INT,Altro,Altro,False,False,True
+
+ILART,Altro,Altro,False,False,True
+
+D_LINEA_TRAT,Altro,Altro,False,False,True
+
+ILATX,Altro,Altro,False,False,True
+
+D_LINEE,Altro,Altro,False,False,True
+
+ERRORE,Altro,Altro,False,False,True
+
+D_MACCHINA,Altro,Altro,False,False,True
+
+ESPONENTE,Altro,Altro,False,False,True
+
+D_MACCHINE,Altro,Altro,False,False,True
+
+D_SERVIZI,Altro,Altro,False,False,True
+
+D_MAN_PRED,Altro,Altro,False,False,True
+
+D_SERVIZIO,Altro,Altro,False,False,True
+
+INGPR,Altro,Altro,False,False,True
+
+D_SERVIZIO,Altro,Altro,False,False,True
+
+Enabled,Altro,Altro,False,False,True
+
+INGRP,Altro,Altro,False,False,True
+
+FLAGS,Altro,Altro,False,False,True
+
+INTERVALLO,Altro,Altro,False,False,True
+
+D_MOD_AVVIAM,Altro,Altro,False,False,True
+
+FLAGS,Altro,Altro,False,False,True
+
+INTERVENTI_FIGLI,Altro,Altro,False,False,True
+
+D_MOD_TRASMISS,Altro,Altro,False,False,True
+
+IS_PUBLIC,Altro,Altro,False,False,True
+
+D_OBIET_QUAL,Altro,Altro,False,False,True
+
+FONDO_SC_STR,Altro,Altro,False,False,True
+
+KTSCH,Altro,Altro,False,False,True
+
+D_PAVIMENTAZ,Altro,Altro,False,False,True
+
+D_PAVIMENTAZ,Altro,Altro,False,False,True
+
+FORMULA,Altro,Altro,False,False,True
+
+D_TECNOLOGIA,Altro,Altro,False,False,True
+
+D_POSA,Altro,Altro,False,False,True
+
+D_TELECONT,Altro,Altro,False,False,True
+
+D_POSA,Altro,Altro,False,False,True
+
+FUNZIONALITA,Altro,Altro,False,False,True
+
+LAYERS,Altro,Altro,False,False,True
+
+LAYOUT_INFO,Altro,Altro,False,False,True
+
+D_PROP_STRADA,Altro,Altro,False,False,True
+
+LAYOUT_INFO,Altro,Altro,False,False,True
+
+D_PROP_STRADA,Altro,Altro,False,False,True
+
+GG_INTER_SERV,Altro,Altro,False,False,True
+
+LEGEND_KEY,Altro,Altro,False,False,True
+
+D_UTILIZZO,Altro,Altro,False,False,True
+
+LIQUAMI_CIVILI,Altro,Altro,False,False,True
+
+D_QUAL_RILIEVO,Altro,Altro,False,False,True
+
+GIRANTE,Altro,Altro,False,False,True
+
+LIQUAMI_INDUSTR,Altro,Altro,False,False,True
+
+D_REAGENTE_1,Altro,Altro,False,False,True
+
+D_REAGENTE_2,Altro,Altro,False,False,True
+
+EDIT,Altro,Altro,False,False,True
+
+ENABLED,Altro,Altro,False,False,True
+
+GRP_SC_RAP,Altro,Altro,False,False,True
+
+D_RIV_EST,Altro,Altro,False,False,True
+
+ENABLED,Altro,Altro,False,False,True
+
+GRP_SC_RAP,Altro,Altro,False,False,True
+
+D_RIV_EST,Altro,Altro,False,False,True
+
+HAS_GEOMETRY,Altro,Altro,False,False,True
+
+LTRMN,Altro,Altro,False,False,True
+
+LTRUR,Altro,Altro,False,False,True
+
+RES_FISSO,Altro,Altro,False,False,True
+
+SN_ATTIVO,Altro,Altro,False,False,True
+
+PERCOLATI,Altro,Altro,False,False,True
+
+RISERVA_ACQUA,Altro,Altro,False,False,True
+
+SN_ATTUATORE,Altro,Altro,False,False,True
+
+SN_AUTOCLAVE,Altro,Altro,False,False,True
+
+PLNAL,Altro,Altro,False,False,True
+
+MASSIMA_GIORNO,Altro,Altro,False,False,True
+
+PLNNR,Altro,Altro,False,False,True
+
+MASSIMA_NOTTE,Altro,Altro,False,False,True
+
+SAPOBJNR,Altro,Altro,False,False,True
+
+SCABREZZA,Altro,Altro,False,False,True
+
+ATTIVA_DEP_D2,Altro,Altro,False,False,True
+
+SCABREZZA,Altro,Altro,False,False,True
+
+SN_BYPASS,Altro,Altro,False,False,True
+
+POS,Altro,Altro,False,False,True
+
+SCALA_FUNZIONAM,Altro,Altro,False,False,True
+
+MESSAGGIO,Altro,Altro,False,False,True
+
+SCARTAMENTO,Altro,Altro,False,False,True
+
+SCHEMAPRGA,Altro,Altro,False,False,True
+
+PRESC_PREL,Altro,Altro,False,False,True
+
+SCHEMA_,Altro,Altro,False,False,True
+
+MOD_VERIFICA_RIPR,Altro,Altro,False,False,True
+
+SN_COLIFORMI,Altro,Altro,False,False,True
+
+PREVALENZA,Altro,Altro,False,False,True
+
+SEGNALANTE,Altro,Altro,False,False,True
+
+PREVAL_ESE,Altro,Altro,False,False,True
+
+PREVAL_ESE,Altro,Altro,False,False,True
+
+SESSION_VALID,Altro,Altro,False,False,True
+
+SN_CONDIVISO,Altro,Altro,False,False,True
+
+PREVAL_NOM,Altro,Altro,False,False,True
+
+SHAPE,Altro,Altro,False,False,True
+
+PRIOK,Altro,Altro,False,False,True
+
+SHAPE,Altro,Altro,False,False,True
+
+SN_CONFLUENZA,Altro,Altro,False,False,True
+
+SN_CONFORME_ATEX,Altro,Altro,False,False,True
+
+SIMUL_PARAMS,Altro,Altro,False,False,True
+
+SN_CONF_ATEX,Altro,Altro,False,False,True
+
+SN_319_76,Altro,Altro,False,False,True
+
+SN_CONF_ATEX_RICH,Altro,Altro,False,False,True
+
+ODL,Altro,Altro,False,False,True
+
+PRODUZ_FANGHI_DISID,Altro,Altro,False,False,True
+
+SN_ACQ_SCAR,Altro,Altro,False,False,True
+
+SN_CONF_ATEX_RICH,Altro,Altro,False,False,True
+
+ODL,Altro,Altro,False,False,True
+
+PROGRESSIVO,Altro,Altro,False,False,True
+
+SN_ALIMENTATRICE,Altro,Altro,False,False,True
+
+OLD_PROV_DATO,Altro,Altro,False,False,True
+
+PUMAN,Altro,Altro,False,False,True
+
+QMNAM,Altro,Altro,False,False,True
+
+SN_CUNIC_PRESA,Altro,Altro,False,False,True
+
+SN_DEFAULT,Altro,Altro,False,False,True
+
+OPZIONI_CAMPI,Altro,Altro,False,False,True
+
+RANKING,Altro,Altro,False,False,True
+
+PADRI_GERARCHIA,Altro,Altro,False,False,True
+
+SN_APERTO,Altro,Altro,False,False,True
+
+SN_APPROV,Altro,Altro,False,False,True
+
+SN_LAGUNAGGIO,Altro,Altro,False,False,True
+
+SN_SALTUARIO,Altro,Altro,False,False,True
+
+SN_USO_MEDIA,Altro,Altro,False,False,True
+
+SN_LETTI_PERCOL,Altro,Altro,False,False,True
+
+SN_USO_POTAB,Altro,Altro,False,False,True
+
+SN_LINEA_PRINCIP,Altro,Altro,False,False,True
+
+SN_USO_SOST_PER,Altro,Altro,False,False,True
+
+SN_USO_SOST_PER,Altro,Altro,False,False,True
+
+SN_SCARICO_SOST_PER,Altro,Altro,False,False,True
+
+SN_SCARICO_SOST_PER,Altro,Altro,False,False,True
+
+SN_VALIDAZIONE_FS,Altro,Altro,False,False,True
+
+SN_SCAR_SUP,Altro,Altro,False,False,True
+
+SN_VIRTUALE,Altro,Altro,False,False,True
+
+SN_SEDIM_PRIM,Altro,Altro,False,False,True
+
+SN_VISIBILE,Altro,Altro,False,False,True
+
+SN_METEORICO,Altro,Altro,False,False,True
+
+SN_SEDIM_SEC,Altro,Altro,False,False,True
+
+SN_VOLANTINO,Altro,Altro,False,False,True
+
+SN_FITTIZIA,Altro,Altro,False,False,True
+
+SN_MET_PES,Altro,Altro,False,False,True
+
+SN_SFIATO,Altro,Altro,False,False,True
+
+SN_FITTIZIA,Altro,Altro,False,False,True
+
+SN_MIC_ULT_FILT,Altro,Altro,False,False,True
+
+SN_MISURATORE,Altro,Altro,False,False,True
+
+SN_SOLA_LETTURA,Altro,Altro,False,False,True
+
+SN_NOSTA_IDR,Altro,Altro,False,False,True
+
+SN_SPAZI_CONF,Altro,Altro,False,False,True
+
+SN_STRUM_MIS_PORT,Altro,Altro,False,False,True
+
+SN_TELECOMANDO,Altro,Altro,False,False,True
+
+SN_TELECOMANDO,Altro,Altro,False,False,True
+
+SN_TELECONT,Altro,Altro,False,False,True
+
+STEP_TEST,Altro,Altro,False,False,True
+
+SN_TELECONT,Altro,Altro,False,False,True
+
+STEUS,Altro,Altro,False,False,True
+
+SN_TELECONT,Altro,Altro,False,False,True
+
+Telecontrollo,Altro,Altro,False,False,True
+
+STRMN,Altro,Altro,False,False,True
+
+SN_IDONEO_VVFF,Altro,Altro,False,False,True
+
+Telecontrollo,Altro,Altro,False,False,True
+
+SN_TERZIARIO,Altro,Altro,False,False,True
+
+SN_IMHOFF,Altro,Altro,False,False,True
+
+SN_IMM_CRITICA,Altro,Altro,False,False,True
+
+SN_PRESID,Altro,Altro,False,False,True
+
+STRUR,Altro,Altro,False,False,True
+
+SN_INCEN_TERM,Altro,Altro,False,False,True
+
+SN_TRAV_FLUV,Altro,Altro,False,False,True
+
+STRUTTURA,Altro,Altro,False,False,True
+
+SN_INTEGR_SAP,Altro,Altro,False,False,True
+
+SN_TRIALOM,Altro,Altro,False,False,True
+
+STSMA,Altro,Altro,False,False,True
+
+SN_INTEGR_SAP,Altro,Altro,False,False,True
+
+SN_INTERRATO,Altro,Altro,False,False,True
+
+SN_USO_ASL,Altro,Altro,False,False,True
+
+SN_INV_NORM_COLL,Altro,Altro,False,False,True
+
+SN_USO_IDROELET,Altro,Altro,False,False,True
+
+SUBALT_REPERT,Altro,Altro,False,False,True
+
+SN_IRRAG_UV,Altro,Altro,False,False,True
+
+SN_RES_SCA_ION,Altro,Altro,False,False,True
+
+SN_USO_INDUSTR,Altro,Altro,False,False,True
+
+SN_RISERVA,Altro,Altro,False,False,True
+
+SN_USO_IRRIGUO,Altro,Altro,False,False,True
+
+SN_ISPEZIONE,Altro,Altro,False,False,True
+
+SN_DISINF,Altro,Altro,False,False,True
+
+VISIBLE,Altro,Altro,False,False,True
+
+SN_DIGEST_AEROB,Altro,Altro,False,False,True
+
+SYMB,Altro,Altro,False,False,True
+
+Shape,Altro,Altro,False,False,True
+
+URI,Altro,Altro,False,False,True
+
+SN_ENABLED,Altro,Altro,False,False,True
+
+SN_EPIS_INQ,Altro,Altro,False,False,True
+
+TEMPO_DI_ESECUZIONE,Altro,Altro,False,False,True
+
+WERKS,Altro,Altro,False,False,True
+
+SN_VASCA_,Altro,Altro,False,False,True
+
+D_GESTORE,Altro,Altro,False,False,True
+
+MEDIA,Altro,Altro,False,False,True
+
+AVG_,Altro,Altro,False,False,True
+
+SN_CAT,Altro,Altro,False,False,True
+
+MATRICOLA,Altro,Altro,False,False,True
+
+MODELLO,Altro,Altro,False,False,True
+
+D_AMBITO,Altro,Altro,False,False,True
+
+ARTPR,Altro,Altro,False,False,True
+
+QMDAT,Altro,Altro,False,False,True
+
+ZZAUFNR,Altro,Altro,False,False,True
+
+AUART,Altro,Altro,False,False,True
+
+GSTRP,Altro,Altro,False,False,True
+
+GSTRP_F,Altro,Altro,False,False,True
+
+IEDZ,Altro,Altro,False,False,True
+
+IHNUM,Altro,Altro,False,False,True
+
+ISDZ,Altro,Altro,False,False,True
+
+TPLNR,Altro,Altro,False,False,True
+
+AUFNR,Altro,Altro,False,False,True
+
+QMNUM,Altro,Altro,False,False,True
+
+IS_ADMIN,Altro,Altro,False,False,True
+
+LABELS,Altro,Altro,False,False,True
+
+CAMPO,Altro,Altro,False,False,True
+
+CURVA,Altro,Altro,False,False,True
+
+NAME,Altro,Altro,False,False,True
+
+FIRSTNAME,Altro,Altro,False,False,True
+
+VORNR,Altro,Altro,False,False,True
+
+SUP_ISTAT,Altro,Altro,False,False,True
+
+SCENE_DATA,Altro,Altro,False,False,True
+
+SERIAL_NUMBER,Altro,Altro,False,False,True
+
+SRC_FIELD,Altro,Altro,False,False,True
+
+COD,Codice,Altro,,False,False,True
+
+COD_MISURA,Codice,Altro,,False,False,True
+
+COD_STRADA,Codice,Altro,,False,False,True
+
+COD_STRADA,Codice,Altro,,False,False,True
+
+COD_TREE,Codice,Altro,,False,False,True
+
+CPDA_SUB,Codice,Altro,,False,False,True
+
+POD,Codice,Altro,,False,False,True
+
+NUMAZIE,Codice,Altro,,False,False,True
+
+SOGESID,Codice,Altro,,False,False,True
+
+SUBCOD,Codice,Altro,,False,False,True
+
+URCOD,Codice,Altro,,False,False,True
+
+URGRP,Codice,Altro,,False,False,True
+
+CODICE,Codice,Altro,,False,False,True
+
+CODICE_,Codice,Altro,,False,False,True
+
+COD_,Codice,Altro,,Codice,Altro,,False,False,True
+
+D_FUNZIONE,Funzione,Altro,,False,False,True
+
+SUB_FUNZIONE,Funzione,Altro,,False,False,True
+
+AGGR_FUNZ,Funzione,Altro,,False,False,True
+
+D_FUNZ_ORG_CON,Funzione,Altro,,False,False,True
+
+AGGR_FUNC,Funzione,Altro,,False,False,True
+
+BUSINESS_ID,ID,Altro,,False,False,True
+
+EQFNR,ID,Altro,,False,False,True
+
+GEWRK,ID,Altro,,False,False,True
+
+OLD_ID,ID,Altro,,False,False,True
+
+OLD_IDGIS,ID,Altro,,False,False,True
+
+UID,ID,Altro,,False,False,True
+
+UUID,ID,Altro,,False,False,True
+
+UUID,ID,Altro,,False,False,True
+
+PORTING_,ID,Altro,,False,False,True
+
+ID_,ID,Altro,,False,False,True
+
+IDGIS,ID,Altro,,False,False,True
+
+GLOBALID,ID,Altro,,False,False,True
+
+OBJECTID,ID,Altro,,False,False,True
+
+ZIDCHIAMATA,ID,Altro,,False,False,True
+
+COD,Recapiti,Altro,,False,False,True
+
+COD_MISURA,Recapiti,Altro,,False,False,True
+
+COD_STRADA,Recapiti,Altro,,False,False,True
+
+COD_STRADA,Recapiti,Altro,,False,False,True
+
+COD_TREE,Recapiti,Altro,,False,False,True
+
+CPDA_SUB,Recapiti,Altro,,False,False,True
+
+POD,Recapiti,Altro,,False,False,True
+
+NUMAZIE,Recapiti,Altro,,False,False,True
+
+SOGESID,Recapiti,Altro,,False,False,True
+
+SUBCOD,Recapiti,Altro,,False,False,True
+
+URCOD,Recapiti,Altro,,False,False,True
+
+URGRP,Recapiti,Altro,,False,False,True
+
+CODICE,Recapiti,Altro,,False,False,True
+
+CODICE_,Recapiti,Altro,,False,False,True
+
+COD_,Recapiti,Altro,,False,False,True
+
+ALTEZZA,Altezza,Caratteristiche Fisiche,True,True,True
+
+H_,Altezza,Caratteristiche Fisiche,True,True,True
+
+ALT_CANALE,Altezza,Caratteristiche Fisiche,True,True,True
+
+AREA_,Area,Caratteristiche Fisiche,True,True,True
+
+D_AREA,Area,Caratteristiche Fisiche,True,True,True
+
+ASSORB_,Assorbimento,Caratteristiche Fisiche,True,True,True
+
+D_CLASSIFIC,Categoria,Caratteristiche Fisiche,True,True,True
+
+D_CAT,Categoria,Caratteristiche Fisiche,True,True,True
+
+D_GEST_PREC,Categoria,Caratteristiche Fisiche,True,True,True
+
+CATEGORIA,Categoria,Caratteristiche Fisiche,True,True,True
+
+CLORURO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+COEF_PERDITA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_COLORE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ALCALINITA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+COEF_RIEMPIMENTO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+AMMONIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+COLOR,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ARBPL,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CONC_CO2_ING,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DIM_1,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ARBPL_COD,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CONC_CO2_USC,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DIM_2,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_COND_METEO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ARSENICO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CONDUCIB,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DIS_GEODETICO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DIS_MANOMETRICO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_CORPO_RICET,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+BACINO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+BACINO_DISTALE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CONV_COMUNE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+BACINO_PROSS,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+COP_SERVIZIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+BACINO_RECET,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CORSO_ACQUA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_DISIDRAT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DUREZZA_TOT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CALCIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_FORATURA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_FORMA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_FORMA_PIANTA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_ALLOGGIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_APERTURA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CLORO_RES,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_CAMPO_TEMP,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_RIV_INT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SCALA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SERRATURA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_MISURA_IDR,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SEZIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SEZIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SOLUZ,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_SPESSORE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+FLUORURO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_STRUTTURA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+FORMA_SCAR_SALTO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LARGHEZZA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LARGHEZZA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LARG_SOGLIA_SFIORO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LARG_UTI_POZ_SCOL,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_TEN_SCUDO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_PREDIS_ALL,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_VERSO_CHIUS,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_VERSO_CHIUS,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+GRADO_PROTEZ,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LIVELLO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+GRADO_PROTEZ_MIN,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LIVELLO_MAX,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+EFFICIENZA_MOTORE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+GRADO_PROTEZ_MIN,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LIVELLO_MIN,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_RESISTENZA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+GRIGLIA_POT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+LIV_MEDIO_FALDA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MAGNESIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MANGANESE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+PH,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ROTAZIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+ROTAZIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_BIODISCHI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_BRACCIO_SCA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MC_AUTORIZZATI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MC_FATTURATI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+POTASSIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MINIMA_GIORNO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+MINIMA_NOTTE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_COL_ELETTR,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+NITRATO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+NITRITO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_COND_SITO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ALTRI_INQ,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_AMMON_NITR,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+RAPPORTO_DILUIZ,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ANIDR_SOLF,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+RAPP_DILUIZ_8H,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ESISTENTE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ESSIC_LETTO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ESSIC_TERM,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_SCARICO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FERRO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_MAC_GALLEG,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_MAC_RAD_EME,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FILTR_LENTA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_MAC_RAD_SOM,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FILTR_SAB,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_MAC_SUP,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_MANGAN,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_VOLANTINO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_SGRIGLIAT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SODIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FLUS_SOM_ORI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_SIFONATO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FLUS_SOM_VER,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_NITRI_NITRA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SOLFATO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FLUS_SUP,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_FOSFATI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ORG_ALOG,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_OSMOSI_INV,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SOTTENSIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_GETTO_CONT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_OSS_C_NITRI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SPESSORE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_GRIGLIAT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_OSS_S_NITRI,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_GRIG_SPINTA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PARAM_OUT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_GRIG_TRAD,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PIANO_PARTICEL,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PNT_PRIMARIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_H2O_GAS,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_POST_ISPES,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PRECIPIT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_IDROC_ALOG,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PREDIS_ALL,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_PUBBLICA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_RECINZ,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SN_ISPESS,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SUP_VAS_OSSID,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SUP_VAS_SED_FIN,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+SUP_VAS_SED_PRIM,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+UMID_MEDIA_RES,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+VARIAZIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+TENSIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+CARICO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+PESO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+NUM_,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+N_,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_ASS_CARB_ATT,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+D_TRASMISSIONE,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+COMPLESSITA,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DISTFONDO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+NUMSTRALCIO,Dati fisici,Caratteristiche Fisiche,True,True,True
+
+DIAM_,Diametro,Caratteristiche Fisiche,True,True,True
+
+D_DIAM_,Diametro,Caratteristiche Fisiche,True,True,True
+
+D_DIAMETRO,Diametro,Caratteristiche Fisiche,True,True,True
+
+DIAMETRO,Diametro,Caratteristiche Fisiche,True,True,True
+
+DIM_,Dimensione,Caratteristiche Fisiche,True,True,True
+
+DIST_,Distanza,Caratteristiche Fisiche,True,True,True
+
+DISTANZA,Distanza,Caratteristiche Fisiche,True,True,True
+
+DIS_CHIUSINO_1,Distanza,Caratteristiche Fisiche,True,True,True
+
+DIS_CHIUSINO_2,Distanza,Caratteristiche Fisiche,True,True,True
+
+LUNG_,Lunghezza,Caratteristiche Fisiche,True,True,True
+
+LUNGHEZZA,Lunghezza,Caratteristiche Fisiche,True,True,True
+
+PENDENZA,Pendenza,Caratteristiche Fisiche,True,True,True
+
+PEND_TUB_PREL,Pendenza,Caratteristiche Fisiche,True,True,True
+
+PORTATA,Portata,Caratteristiche Fisiche,True,True,True
+
+PORT_,Portata,Caratteristiche Fisiche,True,True,True
+
+POTENZA,Potenza,Caratteristiche Fisiche,True,True,True
+
+PRES_,Pressione,Caratteristiche Fisiche,True,True,True
+
+PRESSIONE,Pressione,Caratteristiche Fisiche,True,True,True
+
+PROF_,Profondita,Caratteristiche Fisiche,True,True,True
+
+PROFONDITA,Profondita,Caratteristiche Fisiche,True,True,True
+
+SN_VALORI,Valori,Caratteristiche Fisiche,True,True,True
+
+VALORE,Valori,Caratteristiche Fisiche,True,True,True
+
+CFG_VALUE,Valori,Caratteristiche Fisiche,True,True,True
+
+VALORI,Valori,Caratteristiche Fisiche,True,True,True
+
+VAL_PIEZO,Valori,Caratteristiche Fisiche,True,True,True
+
+VOLUME,Volume,Caratteristiche Fisiche,True,True,True
+
+VOL_,Volume,Caratteristiche Fisiche,True,True,True
+
+D_AFFIDABILITA,Affidabilita,Dettagli,True,True,True
+
+D_AFFIDABILITA,Affidabilita,Dettagli,True,True,True
+
+D_AFFIDABILITA,Affidabilita,Dettagli,True,True,True
+
+A_,Affidabilita,Dettagli,True,True,True
+
+ANNOTAZIONI,Annotazioni,Dettagli,True,True,True
+
+COSTO_ACQUISTO,Costo,Dettagli,True,True,True
+
+COSTO_DISMISSIONE,Costo,Dettagli,True,True,True
+
+COSTO_INSTALLAZIONE,Costo,Dettagli,True,True,True
+
+COSTO_MANUTENZIONE,Costo,Dettagli,True,True,True
+
+COSTO,Costo,Dettagli,True,True,True
+
+DURATA_P,Data e Ora,Dettagli,False,True,True
+
+DURATION,Data e Ora,Dettagli,False,True,True
+
+D_PERIODICITA,Data e Ora,Dettagli,False,True,True
+
+D_PERIODO_RIF,Data e Ora,Dettagli,False,True,True
+
+LAST_EDITED_DATE,Data e Ora,Dettagli,False,True,True
+
+GG_PERIODO,Data e Ora,Dettagli,False,True,True
+
+MZEIT,Data e Ora,Dettagli,False,True,True
+
+ANNO_,Data e Ora,Dettagli,False,True,True
+
+DATAORA_,Data e Ora,Dettagli,False,True,True
+
+DATA_,Data e Ora,Dettagli,False,True,True
+
+GLTRP,Data e Ora,Dettagli,False,True,True
+
+ERDAT,Data e Ora,Dettagli,False,True,True
+
+IEDD,Data e Ora,Dettagli,False,True,True
+
+ISDD,Data e Ora,Dettagli,False,True,True
+
+STRMN,Data e Ora,Dettagli,False,True,True
+
+LTRMN,Data e Ora,Dettagli,False,True,True
+
+ANNO,Data e Ora,Dettagli,False,True,True
+
+UDATE_SISTEMA,Data e Ora,Dettagli,False,True,True
+
+D_CLASSE_EFF_ENERG,Dati Commerciali,Dettagli,False,True,True
+
+D_CONSORZIO,Dati Commerciali,Dettagli,False,True,True
+
+CONSUMO,Dati Commerciali,Dettagli,False,True,True
+
+DITTA_ESTERNA,Dati Commerciali,Dettagli,False,True,True
+
+D_ENTE_INTERFERENTE,Dati Commerciali,Dettagli,False,True,True
+
+CAUSALE_ANNULLAMENTO,Dati Commerciali,Dettagli,False,True,True
+
+D_ASL_COMPET,Dati Commerciali,Dettagli,False,True,True
+
+ESTREMI_CONCES,Dati Commerciali,Dettagli,False,True,True
+
+ESTREMI_GU,Dati Commerciali,Dettagli,False,True,True
+
+D_MOTIVO_DISM,Dati Commerciali,Dettagli,False,True,True
+
+FOGLIO_CATAST,Dati Commerciali,Dettagli,False,True,True
+
+D_OSSID_RIDUZ,Dati Commerciali,Dettagli,False,True,True
+
+FONTI,Dati Commerciali,Dettagli,False,True,True
+
+D_TARIFFA_GEO,Dati Commerciali,Dettagli,False,True,True
+
+FORNITORE,Dati Commerciali,Dettagli,False,True,True
+
+FRONTECIVICO,Dati Commerciali,Dettagli,False,True,True
+
+ENTE,Dati Commerciali,Dettagli,False,True,True
+
+GRUND,Dati Commerciali,Dettagli,False,True,True
+
+PARTICELLA_CATAST,Dati Commerciali,Dettagli,False,True,True
+
+RICHIEDENTE,Dati Commerciali,Dettagli,False,True,True
+
+MARCA,Dati Commerciali,Dettagli,False,True,True
+
+SN_BIL_PERD,Dati Commerciali,Dettagli,False,True,True
+
+POT_PROG,Dati Commerciali,Dettagli,False,True,True
+
+SEDE_TECN_DEP,Dati Commerciali,Dettagli,False,True,True
+
+SN_CONCESS_RIC,Dati Commerciali,Dettagli,False,True,True
+
+SIGLA_PROV,Dati Commerciali,Dettagli,False,True,True
+
+PRODUZIONE,Dati Commerciali,Dettagli,False,True,True
+
+OBJNR_QMEL,Dati Commerciali,Dettagli,False,True,True
+
+PRODUZ_FANGHI,Dati Commerciali,Dettagli,False,True,True
+
+ORGANIZATION,Dati Commerciali,Dettagli,False,True,True
+
+STRNO,Dati Commerciali,Dettagli,False,True,True
+
+STRNO,Dati Commerciali,Dettagli,False,True,True
+
+STRNO_GIS,Dati Commerciali,Dettagli,False,True,True
+
+SN_PREVAL,Dati Commerciali,Dettagli,False,True,True
+
+SN_PRODUTTIVO,Dati Commerciali,Dettagli,False,True,True
+
+SN_PRODUZ_GAS,Dati Commerciali,Dettagli,False,True,True
+
+SN_USO_ALTRO,Dati Commerciali,Dettagli,False,True,True
+
+STSMA,Dati Commerciali,Dettagli,False,True,True
+
+ST_SAP_INT,Dati Commerciali,Dettagli,False,True,True
+
+TARIFFA,Dati Commerciali,Dettagli,False,True,True
+
+D_CAUSALE,Dati Commerciali,Dettagli,False,True,True
+
+D_TRASF_INTERAMBITO,Dati Commerciali,Dettagli,False,True,True
+
+ABIT_EQUI_PRESU,Dati Geografici,Dettagli,False,True,True
+
+ABIT_EQUI_PRESU,Dati Geografici,Dettagli,False,True,True
+
+ACQUEDOTTO,Dati Geografici,Dettagli,False,True,True
+
+ADRNR,Dati Geografici,Dettagli,False,True,True
+
+COLLOCAZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_COMPLESSI,Dati Geografici,Dettagli,False,True,True
+
+D_COMPLESSI,Dati Geografici,Dettagli,False,True,True
+
+D_DIREZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_ACCESSIB,Dati Geografici,Dettagli,False,True,True
+
+CAP,Dati Geografici,Dettagli,False,True,True
+
+CAP,Dati Geografici,Dettagli,False,True,True
+
+CIVICO,Dati Geografici,Dettagli,False,True,True
+
+CIVICO_GEST,Dati Geografici,Dettagli,False,True,True
+
+INDIRIZZO,Dati Geografici,Dettagli,False,True,True
+
+INDIRIZZO,Dati Geografici,Dettagli,False,True,True
+
+INFR_ATTRAVERS,Dati Geografici,Dettagli,False,True,True
+
+D_POSIZ,Dati Geografici,Dettagli,False,True,True
+
+D_UBICAZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_POSIZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_UBICAZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_UBICAZIONE,Dati Geografici,Dettagli,False,True,True
+
+D_UBICAZIONE_CONT,Dati Geografici,Dettagli,False,True,True
+
+D_UBICAZIONE_SERB,Dati Geografici,Dettagli,False,True,True
+
+D_PROV_ACQUA_TRATT,Dati Geografici,Dettagli,False,True,True
+
+LOCALITA,Dati Geografici,Dettagli,False,True,True
+
+LOCATION,Dati Geografici,Dettagli,False,True,True
+
+PRESID_IMP,Dati Geografici,Dettagli,False,True,True
+
+NAZIONE,Dati Geografici,Dettagli,False,True,True
+
+PROGR_KM,Dati Geografici,Dettagli,False,True,True
+
+PROVINCIA,Dati Geografici,Dettagli,False,True,True
+
+SN_EROGANTE,Dati Geografici,Dettagli,False,True,True
+
+SORGENTE,Dati Geografici,Dettagli,False,True,True
+
+STORT,Dati Geografici,Dettagli,False,True,True
+
+VIA,Dati Geografici,Dettagli,False,True,True
+
+UBICAZIONE,Dati Geografici,Dettagli,False,True,True
+
+COMUNE,Dati Geografici,Dettagli,False,True,True
+
+X,Dati Geografici,Dettagli,False,True,True
+
+Y,Dati Geografici,Dettagli,False,True,True
+
+DENOM_L1,Denominazione,Dettagli,True,True,True
+
+DENOM_L2,Denominazione,Dettagli,True,True,True
+
+DENOM_L3,Denominazione,Dettagli,True,True,True
+
+DENOM_L4,Denominazione,Dettagli,True,True,True
+
+DENOM_L5,Denominazione,Dettagli,True,True,True
+
+DENOM_PNT_PP_VALLE,Denominazione,Dettagli,True,True,True
+
+DENOM,Denominazione,Dettagli,True,True,True
+
+DENOM,Denominazione,Dettagli,True,True,True
+
+DENOM,Denominazione,Dettagli,True,True,True
+
+DENOM_ALTERN,Denominazione,Dettagli,True,True,True
+
+LASTNAME,Denominazione,Dettagli,True,True,True
+
+EMAIL,Denominazione,Dettagli,True,True,True
+
+LOGIN,Denominazione,Dettagli,True,True,True
+
+LU_NAME,Denominazione,Dettagli,True,True,True
+
+PASSWORD,Denominazione,Dettagli,True,True,True
+
+NOMINATIVO,Denominazione,Dettagli,True,True,True
+
+NOMINATIVO_GEST,Denominazione,Dettagli,True,True,True
+
+SN_DER_ALTRO,Denominazione,Dettagli,True,True,True
+
+NOME,Denominazione,Dettagli,True,True,True
+
+DENOM,Denominazione,Dettagli,True,True,True
+
+SN_DER_,Deroga,Dettagli,True,True,True
+
+DEFINIZIONE,Descrizione,Dettagli,True,True,True
+
+KTEXT,Descrizione,Dettagli,True,True,True
+
+GEWRK_KTEXT,Descrizione,Dettagli,True,True,True
+
+PLTXT,Descrizione,Dettagli,True,True,True
+
+PRIOKX,Descrizione,Dettagli,True,True,True
+
+QMTXT,Descrizione,Dettagli,True,True,True
+
+NOTE,Descrizione,Dettagli,True,True,True
+
+DESCR,Descrizione,Dettagli,True,True,True
+
+DURATA_P,Dettagli,Dettagli,False,True,True
+
+DURATION,Dettagli,Dettagli,False,True,True
+
+D_PERIODICITA,Dettagli,Dettagli,False,True,True
+
+D_PERIODO_RIF,Dettagli,Dettagli,False,True,True
+
+LAST_EDITED_DATE,Dettagli,Dettagli,False,True,True
+
+GG_PERIODO,Dettagli,Dettagli,False,True,True
+
+MZEIT,Dettagli,Dettagli,False,True,True
+
+ANNO_,Dettagli,Dettagli,False,True,True
+
+DATAORA_,Dettagli,Dettagli,False,True,True
+
+DATA_,Dettagli,Dettagli,False,True,True
+
+GLTRP,Dettagli,Dettagli,False,True,True
+
+ERDAT,Dettagli,Dettagli,False,True,True
+
+IEDD,Dettagli,Dettagli,False,True,True
+
+ISDD,Dettagli,Dettagli,False,True,True
+
+STRMN,Dettagli,Dettagli,False,True,True
+
+LTRMN,Dettagli,Dettagli,False,True,True
+
+ALTRO_TRATT,Manutenzione,Dettagli,True,True,True
+
+IWERK,Manutenzione,Dettagli,True,True,True
+
+D_REGOLAZIONE,Manutenzione,Dettagli,True,True,True
+
+D_RINFIANCO,Manutenzione,Dettagli,True,True,True
+
+SN_CAMBIO_CONDOTTA,Manutenzione,Dettagli,True,True,True
+
+SN_CAM_PRESA,Manutenzione,Dettagli,True,True,True
+
+SN_CHIARIFIC,Manutenzione,Dettagli,True,True,True
+
+SN_CHIRIF_DEFOS,Manutenzione,Dettagli,True,True,True
+
+SN_CONTR_PRES,Manutenzione,Dettagli,True,True,True
+
+SN_DEFOSF_SIM,Manutenzione,Dettagli,True,True,True
+
+SN_DENITR,Manutenzione,Dettagli,True,True,True
+
+SN_DEODOR,Manutenzione,Dettagli,True,True,True
+
+SN_FITODEP,Manutenzione,Dettagli,True,True,True
+
+SN_FITOFARMACI,Manutenzione,Dettagli,True,True,True
+
+SN_STRIPP,Manutenzione,Dettagli,True,True,True
+
+SN_TRATTAM_AMPP,Manutenzione,Dettagli,True,True,True
+
+SN_TRATT_BIO,Manutenzione,Dettagli,True,True,True
+
+SN_DISINF_OZON,Manutenzione,Dettagli,True,True,True
+
+SN_DISOLEAT,Manutenzione,Dettagli,True,True,True
+
+SN_DISSAB,Manutenzione,Dettagli,True,True,True
+
+SN_ELETTRODIAL,Manutenzione,Dettagli,True,True,True
+
+SN_EQUALIZ,Manutenzione,Dettagli,True,True,True
+
+D_DISINFEZIONE,Manutenzione,Dettagli,True,True,True
+
+D_MAT,Materiale,Dettagli,True,True,True
+
+D_MATERIALE,Materiale,Dettagli,True,True,True
+
+MATERIALE,Materiale,Dettagli,True,True,True
+
+SN_PREL_,Prelievo,Dettagli,True,True,True
+
+D_COLL_EL_SONDA,Presenza,Dettagli,True,True,True
+
+APP_TLC,Presenza,Dettagli,True,True,True
+
+FUNZIONAM_GRAVITA,Presenza,Dettagli,True,True,True
+
+SN_ATTUATORE,Presenza,Dettagli,True,True,True
+
+SN_BYPASS,Presenza,Dettagli,True,True,True
+
+SERVIZIO,Presenza,Dettagli,True,True,True
+
+SN_CONTATORE,Presenza,Dettagli,True,True,True
+
+SN_ALLACCIABILITA,Presenza,Dettagli,True,True,True
+
+SN_ALLAC_FGN,Presenza,Dettagli,True,True,True
+
+SN_ALLAC_FGN,Presenza,Dettagli,True,True,True
+
+SN_ALLAC_FGN,Presenza,Dettagli,True,True,True
+
+SN_ALL_ANOMALI,Presenza,Dettagli,True,True,True
+
+SN_ANTINCENDIO,Presenza,Dettagli,True,True,True
+
+SN_SCARICO,Presenza,Dettagli,True,True,True
+
+SN_FILTRO,Presenza,Dettagli,True,True,True
+
+SN_GEL,Presenza,Dettagli,True,True,True
+
+SN_GR_ELETT,Presenza,Dettagli,True,True,True
+
+SN_PRESA_SUCC,Presenza,Dettagli,True,True,True
+
+SN_SALTO,Presenza,Dettagli,True,True,True
+
+QUOTA,Quota,Dettagli,True,True,True
+
+SIST_,Sistema,Dettagli,True,True,True
+
+SISTEMAPRGA,Sistema,Dettagli,True,True,True
+
+STATI,Stato,Dettagli,True,True,True
+
+D_STATO_,Stato,Dettagli,True,True,True
+
+D_STATO,Stato,Dettagli,True,True,True
+
+D_AM_STATO,Stato,Dettagli,True,True,True
+
+STATO_SAP,Stato,Dettagli,True,True,True
+
+ULTIMO_STATO,Stato,Dettagli,True,True,True
+
+TABELLA_VALORI_FILTRO,Tabelle,Dettagli,True,True,True
+
+TABELLA,Tabelle,Dettagli,True,True,True
+
+TAB_NORMATIVA,Tabelle,Dettagli,True,True,True
+
+SRC_TABLE,Tabelle,Dettagli,True,True,True
+
+D_FUNZIONAM,Tipo,Dettagli,True,True,True
+
+EQART,Tipo,Dettagli,True,True,True
+
+D_MATERIALE,Tipo,Dettagli,True,True,True
+
+D_SUBTIPO,Tipo,Dettagli,True,True,True
+
+D_SUBTIPO,Tipo,Dettagli,True,True,True
+
+D_SUBTIPO,Tipo,Dettagli,True,True,True
+
+GEOMETRY_TYPE,Tipo,Dettagli,True,True,True
+
+EQART,Tipo,Dettagli,True,True,True
+
+MEASURE_TYPE,Tipo,Dettagli,True,True,True
+
+QMART,Tipo,Dettagli,True,True,True
+
+T_RECAPITO,Tipo,Dettagli,True,True,True
+
+T_SCARICO,Tipo,Dettagli,True,True,True
+
+TYPE,Tipo,Dettagli,True,True,True
+
+TIPO_,Tipo,Dettagli,True,True,True
+
+D_T_,Tipo,Dettagli,True,True,True
+
+D_TIPO_,Tipo,Dettagli,True,True,True
+
+SUB_TIPO,Tipo,Dettagli,True,True,True
+
+D_TIPO,Tipo,Dettagli,True,True,True
+
+TIPO,Tipo,Dettagli,True,True,True
+
+SUBTIPO,Tipo,Dettagli,True,True,True
+
+CREATED_DATE,User/Operatore,False,True,True
+
+CREATED_USER,User/Operatore,False,True,True
+
+ROLE,User/Operatore,False,True,True
+
+SN_COP_TOT_GEST,User/Operatore,False,True,True
+
+SN_COSTR_GEST,User/Operatore,False,True,True
+
+OPERATORE,User/Operatore,False,True,True
+
+SN_COSTR_GEST,User/Operatore,False,True,True
+
+OPERATORE,User/Operatore,False,True,True
+
+OPERATORE,User/Operatore,False,True,True
+
+SN_UTENZA,User/Operatore,False,True,True
+
+
