@@ -1,0 +1,711 @@
+ABIT_EQUI_PRESU,Dati geografici
+COD,Codice
+DENOM_L1,Denominazione
+CLORURO,Dati fisici
+ABIT_EQUI_PRESU,Dati geografici
+COD_MISURA,Codice
+DENOM_L2,Denominazione
+D_CLASSE_EFF_ENERG,Dati commerciali
+ACC_MEZZI,Altro
+COD_STRADA,Codice
+DENOM_L3,Denominazione
+D_CLASSIF,Categoria
+ACC_PRESC,Altro
+COD_STRADA,Codice
+DENOM_L4,Denominazione
+D_CLASSIFIC,Categoria
+ACQUEDOTTO,Dati geografici
+COD_TREE,Codice
+DENOM_L5,Denominazione
+D_COLL_EL_SONDA,Presenza
+ADRNR,Dati geografici
+COEF_PERDITA,Dati fisici
+DENOM_PNT_PP_VALLE,Denominazione
+D_COLORE,Dati fisici
+ALCALINITA,Dati fisici
+COEF_RIEMPIMENTO,Dati fisici
+DETTAGLI,Dettagli
+D_COMANDO_VALV,Altro
+ALTRO_TRATT,Manutenzione
+COLLOCAZIONE,Dati geografici
+DETTAGLIO,Dettagli
+D_COMANDO_VALV,Altro
+AMMONIO,Dati fisici
+COLOR,Dati fisici
+DETT_CONCES,Dettagli
+D_COMPARTO,Altro
+APPLICAZIONE,Altro
+COMANDO,Altro
+DETT_KM,Dettagli
+D_COMPARTO,Altro
+APP_TLC,Presenza
+COMMESSA,Altro
+DETT_TRATTO,Dettagli
+D_COMPLESSI,Dati geografici
+ARBPL,Dati fisici
+CONC_CO2_ING,Dati fisici
+DIM_1,Dati fisici
+D_COMPLESSI,Dati geografici
+ARBPL_COD,Dati fisici
+CONC_CO2_USC,Dati fisici
+DIM_2,Dati fisici
+D_COND_METEO,Dati fisici
+ARSENICO,Dati fisici
+CONDUCIB,Dati fisici
+DIS_GEODETICO,Dati fisici
+D_CONSORZIO,Dati commerciali
+ATTIVA_FGN,Altro
+CONFIGURAZIONE,Altro
+DIS_MANOMETRICO,Dati fisici
+D_COPERTURA,Altro
+ATTIVITA,Altro
+CONSUMO,Dati commerciali
+DITTA_ESTERNA,Dati commerciali
+D_CORPO_RICET,Dati fisici
+BACINO,Dati fisici
+CONVENZIONE,Altro
+DOMAIN,Altro
+D_DEST_FANGHI,Altro
+BACINO_DISTALE,Dati fisici
+CONV_COMUNE,Dati fisici
+DOMANDA,Altro
+D_DIGEST_ANAE,Altro
+BACINO_PROSS,Dati fisici
+COP_SERVIZIO,Dati fisici
+DOMANDA_UTENZE,Altro
+D_DIREZIONE,Dati geografici
+BACINO_RECET,Dati fisici
+CORSO_ACQUA,Dati fisici
+DURATA_P,Data e ora
+D_DISIDRAT,Dati fisici
+BOTTINI,Altro
+COSTRUTTORE,Altro
+DURATION,Data e ora
+D_ENTE_INTERFERENTE,Dati commerciali
+BUSINESS_ID,Id
+CPDA_SUB,Codice
+DUREZZA_TOT,Dati fisici
+D_ESITO_INTERV,Altro
+CABINE_CORREL,Altro
+CREATED_DATE,User/operatore
+D_ACCESSIB,Dati geografici
+D_ESITO_MANOVRA,Altro
+CALCIO,Dati fisici
+CREATED_USER,User/operatore
+D_ACC_CHIAVI,Altro
+D_FORATURA,Dati fisici
+CAMPI_LAYER,Altro
+CURVA_CARAT,Altro
+D_AFFIDABILITA,Affidabilita
+D_FORMA,Dati fisici
+CAP,Dati geografici
+DEFINIZIONE,Descrizione
+D_AFFIDABILITA,Affidabilita
+D_FORMA_PIANTA,Dati fisici
+CAP,Dati geografici
+DELETE,Altro
+D_AFFIDABILITA,Affidabilita
+D_FUNZIONAM,Altro
+CAUSALE_ANNULLAMENTO,Dati commerciali
+DELETED,Altro
+D_ALLOGGIO,Dati fisici
+D_FUNZIONAM,Altro
+CERTIFICAZIONI,Altro
+DENOM,Denominazione
+D_APERTURA,Dati fisici
+D_FUNZIONAM,Tipo
+CIVICO,Dati geografici
+DENOM,Denominazione
+D_ASL_COMPET,Dati commerciali
+D_FUNZIONAM_SCARICO,Altro
+CIVICO_GEST,Dati geografici
+DENOM,Denominazione
+D_AZIONAMENTO,Altro
+D_GERARCHIA_SAP,Altro
+CLORO_RES,Dati fisici
+DENOM_ALTERN,Denominazione
+D_CAMPO_TEMP,Dati fisici
+D_GERARCHIA_SAP,Altro
+D_GRADO_PROTEZ,Altro
+D_RIV_INT,Altro
+EQART,Tipo
+ILART,Altro
+D_LINEA_TRAT,Altro
+D_RIV_INT,Dati fisici
+EQFNR,Id
+ILATX,Altro
+D_LINEE,Altro
+D_SCALA,Dati fisici
+ERRORE,Altro
+INDIRIZZO,Dati geografici
+D_MACCHINA,Altro
+D_SERRATURA,Dati fisici
+ESPONENTE,Altro
+INDIRIZZO,Dati geografici
+D_MACCHINE,Altro
+D_SERVIZI,Altro
+ESTREMI_CONCES,Dati commerciali
+INFR_ATTRAVERS,Dati geografici
+D_MAN_PRED,Altro
+D_SERVIZIO,Altro
+ESTREMI_GU,Dati commerciali
+INGPR,Altro
+D_MATERIALE,Tipo
+D_SERVIZIO,Altro
+Enabled,Altro
+INGRP,Altro
+D_MISURA_IDR,Dati fisici
+D_SEZIONE,Dati fisici
+FLAGS,Altro
+INTERVALLO,Altro
+D_MOD_AVVIAM,Altro
+D_SEZIONE,Dati fisici
+FLAGS,Altro
+INTERVENTI_FIGLI,Altro
+D_MOD_TRASMISS,Altro
+D_SOLUZ,Dati fisici
+FLTYP,Categoria
+IS_PUBLIC,Altro
+D_MOTIVO_DISM,Dati commerciali
+D_SPESSORE,Dati fisici
+FLUORURO,Dati fisici
+IWERK,Manutenzione
+D_OBIET_QUAL,Altro
+D_STRUTTURA,Dati fisici
+FOGLIO_CATAST,Dati commerciali
+KTEXT,Descrizione
+D_OSSID_RIDUZ,Dati commerciali
+D_SUBTIPO,Tipo
+FONDO_SC_STR,Altro
+KTSCH,Altro
+D_PAVIMENTAZ,Altro
+D_SUBTIPO,Tipo
+FONTI,Dati commerciali
+KURZTEXT,Dettagli
+D_PAVIMENTAZ,Altro
+D_SUBTIPO,Tipo
+FORMA_SCAR_SALTO,Dati fisici
+LARGHEZZA,Dati fisici
+D_PERIODICITA,Data e ora
+D_TARIFFA_GEO,Dati commerciali
+FORMULA,Altro
+LARGHEZZA,Dati fisici
+D_PERIODO_RIF,Data e ora
+D_TECNOLOGIA,Altro
+FORNITORE,Dati commerciali
+LARG_SOGLIA_SFIORO,Dati fisici
+D_POSA,Altro
+D_TELECONT,Altro
+FRONTECIVICO,Dati commerciali
+LARG_UTI_POZ_SCOL,Dati fisici
+D_POSA,Altro
+D_TEN_SCUDO,Dati fisici
+FUNZIONALITA,Altro
+LASTNAME,Denominazione
+D_POSIZ,Dati geografici
+D_UBICAZIONE,Dati geografici
+FUNZIONAM_GRAVITA,Presenza
+LAST_EDITED_DATE,Data e ora
+D_POSIZIONE,Dati geografici
+D_UBICAZIONE,Dati geografici
+GEOMETRY_TYPE,Tipo
+LAYERS,Altro
+D_PREDIS_ALL,Dati fisici
+D_UBICAZIONE,Dati geografici
+GEWRK,Id
+LAYOUT_INFO,Altro
+D_PROP_STRADA,Altro
+D_UBICAZIONE_CONT,Dati geografici
+GEWRK_KTEXT,Descrizione
+LAYOUT_INFO,Altro
+D_PROP_STRADA,Altro
+D_UBICAZIONE_SERB,Dati geografici
+GG_INTER_SERV,Altro
+LEGEND_KEY,Altro
+D_PROV_ACQUA_TRATT,Dati geografici
+D_UTILIZZO,Altro
+GG_PERIODO,Data e ora
+LIQUAMI_CIVILI,Altro
+D_QUAL_RILIEVO,Altro
+D_VERSO_CHIUS,Dati fisici
+GIRANTE,Altro
+LIQUAMI_INDUSTR,Altro
+D_REAGENTE_1,Altro
+D_VERSO_CHIUS,Dati fisici
+GRADO_PROTEZ,Dati fisici
+LIVELLO,Dati fisici
+D_REAGENTE_2,Altro
+EDIT,Altro
+GRADO_PROTEZ_MIN,Dati fisici
+LIVELLO_MAX,Dati fisici
+D_REGOLAZIONE,Manutenzione
+EFFICIENZA_MOTORE,Dati fisici
+GRADO_PROTEZ_MIN,Dati fisici
+LIVELLO_MIN,Dati fisici
+D_RESISTENZA,Dati fisici
+EMAIL,Denominazione
+GRIGLIA_POT,Dati fisici
+LIV_MEDIO_FALDA,Dati fisici
+D_RINFIANCO,Manutenzione
+ENABLED,Altro
+GRP_SC_RAP,Altro
+LOCALITA,Dati geografici
+D_RIV_EST,Altro
+ENABLED,Altro
+GRP_SC_RAP,Altro
+LOCATION,Dati geografici
+D_RIV_EST,Altro
+ENTE,Dati commerciali
+GRP_SC_RAP_DESC,Dettagli
+LOGIN,Denominazione
+EQART,Tipo
+GRUND,Dati commerciali
+HAS_GEOMETRY,Altro
+LTRMN,Altro
+LTRUR,Altro
+PARTICELLA_CATAST,Dati commerciali
+RES_FISSO,Altro
+SN_ATTIVO,Altro
+LU_NAME,Denominazione
+PASSWORD,Denominazione
+RICHIEDENTE,Dati commerciali
+SN_ATTUATORE,Presenza
+MAGNESIO,Dati fisici
+PERCOLATI,Altro
+RISERVA_ACQUA,Altro
+SN_ATTUATORE,Altro
+MANGANESE,Dati fisici
+PH,Dati fisici
+ROLE,User/operatore
+SN_AUTOCLAVE,Altro
+MARCA,Dati commerciali
+PLNAL,Altro
+ROTAZIONE,Dati fisici
+SN_BIL_PERD,Dati commerciali
+MASSIMA_GIORNO,Altro
+PLNNR,Altro
+ROTAZIONE,Dati fisici
+SN_BIODISCHI,Dati fisici
+MASSIMA_NOTTE,Altro
+PLTXT,Descrizione
+SAPOBJNR,Altro
+SN_BRACCIO_SCA,Dati fisici
+MC_AUTORIZZATI,Dati fisici
+POD,Codice
+SCABREZZA,Altro
+SN_BYPASS,Presenza
+MC_FATTURATI,Dati fisici
+ATTIVA_DEP_D2,Altro
+SCABREZZA,Altro
+SN_BYPASS,Altro
+MEASURE_TYPE,Tipo
+POS,Altro
+SCALA_FUNZIONAM,Altro
+SN_CAMBIO_CONDOTTA,Manutenzione
+MESSAGGIO,Altro
+POTASSIO,Dati fisici
+SCARTAMENTO,Altro
+SN_CAM_PRESA,Manutenzione
+MINIMA_GIORNO,Dati fisici
+POT_PROG,Dati commerciali
+SCHEMAPRGA,Altro
+SN_CHIARIFIC,Manutenzione
+MINIMA_NOTTE,Dati fisici
+PRESC_PREL,Altro
+SCHEMA_,Altro
+SN_CHIRIF_DEFOS,Manutenzione
+MOD_VERIFICA_RIPR,Altro
+PRESID_IMP,Dati geografici
+SEDE_TECN_DEP,Dati commerciali
+SN_COLIFORMI,Altro
+MZEIT,Data e ora
+PREVALENZA,Altro
+SEGNALANTE,Altro
+SN_COL_ELETTR,Dati fisici
+NAZIONE,Dati geografici
+PREVAL_ESE,Altro
+SERVIZIO,Presenza
+SN_CONCESS_RIC,Dati commerciali
+NITRATO,Dati fisici
+PREVAL_ESE,Altro
+SESSION_VALID,Altro
+SN_CONDIVISO,Altro
+NITRITO,Dati fisici
+PREVAL_NOM,Altro
+SHAPE,Altro
+SN_COND_SITO,Dati fisici
+NOMINATIVO,Denominazione
+PRIOK,Altro
+SHAPE,Altro
+SN_CONFLUENZA,Altro
+NOMINATIVO_GEST,Denominazione
+PRIOKX,Descrizione
+SIGLA_PROV,Dati commerciali
+SN_CONFORME_ATEX,Altro
+NUMAZIE,Codice
+PRODUZIONE,Dati commerciali
+SIMUL_PARAMS,Altro
+SN_CONF_ATEX,Altro
+OBJNR_QMEL,Dati commerciali
+PRODUZ_FANGHI,Dati commerciali
+SN_319_76,Altro
+SN_CONF_ATEX_RICH,Altro
+ODL,Altro
+PRODUZ_FANGHI_DISID,Altro
+SN_ACQ_SCAR,Altro
+SN_CONF_ATEX_RICH,Altro
+ODL,Altro
+PROGRESSIVO,Altro
+SN_ALIMENTATRICE,Altro
+SN_CONTATORE,Presenza
+OLD_ID,Id
+PROGR_KM,Dati geografici
+SN_ALLACCIABILITA,Presenza
+SN_CONTR_PRES,Manutenzione
+OLD_IDGIS,Id
+PROVINCIA,Dati geografici
+SN_ALLAC_FGN,Presenza
+SN_COP_TOT_GEST,User/operatore
+OLD_PROV_DATO,Altro
+PUMAN,Altro
+SN_ALLAC_FGN,Presenza
+SN_COSTR_GEST,User/operatore
+OPERATORE,User/operatore
+QMART,Tipo
+SN_ALLAC_FGN,Presenza
+SN_COSTR_GEST,User/operatore
+OPERATORE,User/operatore
+QMNAM,Altro
+SN_ALL_ANOMALI,Presenza
+SN_CUNIC_PRESA,Altro
+OPERATORE,User/operatore
+QMTXT,Descrizione
+SN_ALTRI_INQ,Dati fisici
+SN_DEFAULT,Altro
+OPZIONI_CAMPI,Altro
+RANKING,Altro
+SN_AMMON_NITR,Dati fisici
+SN_DEFOSF_SIM,Manutenzione
+ORGANIZATION,Dati commerciali
+RAPPORTO_DILUIZ,Dati fisici
+SN_ANIDR_SOLF,Dati fisici
+SN_DENITR,Manutenzione
+PADRI_GERARCHIA,Altro
+RAPP_DILUIZ_8H,Dati fisici
+SN_ANTINCENDIO,Presenza
+SN_DEODOR,Manutenzione
+SN_APERTO,Altro
+SN_APPROV,Altro
+SN_DER_ALTRO,Denominazione
+SN_EROGANTE,Dati geografici
+SN_ESISTENTE,Dati fisici
+SN_LAGUNAGGIO,Altro
+SN_SALTUARIO,Altro
+SN_USO_MEDIA,Altro
+SN_ESSIC_LETTO,Dati fisici
+SN_LETTI_PERCOL,Altro
+SN_SCARICO,Presenza
+SN_USO_POTAB,Altro
+SN_ESSIC_TERM,Dati fisici
+SN_LINEA_PRINCIP,Altro
+SN_SCARICO,Dati fisici
+SN_USO_SOST_PER,Altro
+SN_FERRO,Dati fisici
+SN_MAC_GALLEG,Dati fisici
+SN_SCARICO_FONDO,Dettagli
+SN_USO_SOST_PER,Altro
+SN_FILTRO,Presenza
+SN_MAC_RAD_EME,Dati fisici
+SN_SCARICO_SOST_PER,Altro
+SN_UTENZA,User/operatore
+SN_FILTR_LENTA,Dati fisici
+SN_MAC_RAD_SOM,Dati fisici
+SN_SCARICO_SOST_PER,Altro
+SN_VALIDAZIONE_FS,Altro
+SN_FILTR_SAB,Dati fisici
+SN_MAC_SUP,Dati fisici
+SN_SCAR_SUP,Altro
+SN_VIRTUALE,Altro
+SN_FITODEP,Manutenzione
+SN_MANGAN,Dati fisici
+SN_SEDIM_PRIM,Altro
+SN_VISIBILE,Altro
+SN_FITOFARMACI,Manutenzione
+SN_METEORICO,Altro
+SN_SEDIM_SEC,Altro
+SN_VOLANTINO,Altro
+SN_FITTIZIA,Altro
+SN_MET_PES,Altro
+SN_SFIATO,Altro
+SN_VOLANTINO,Dati fisici
+SN_FITTIZIA,Altro
+SN_MIC_ULT_FILT,Altro
+SN_SGRIGLIAT,Dati fisici
+SODIO,Dati fisici
+SN_FLUS_SOM_ORI,Dati fisici
+SN_MISURATORE,Altro
+SN_SIFONATO,Dati fisici
+SOGESID,Codice
+SN_FLUS_SOM_VER,Dati fisici
+SN_NITRI_NITRA,Dati fisici
+SN_SOLA_LETTURA,Altro
+SOLFATO,Dati fisici
+SN_FLUS_SUP,Dati fisici
+SN_NOSTA_IDR,Altro
+SN_SPAZI_CONF,Altro
+SORGENTE,Dati geografici
+SN_FOSFATI,Dati fisici
+SN_ORG_ALOG,Dati fisici
+SN_STRIPP,Manutenzione
+SORGENTE,Dati geografici
+SN_GEL,Presenza
+SN_OSMOSI_INV,Dati fisici
+SN_STRUM_MIS_PORT,Altro
+SOTTENSIONE,Dati fisici
+SN_GETTO_CONT,Dati fisici
+SN_OSS_C_NITRI,Dati fisici
+SN_TELECOMANDO,Altro
+SPESSORE,Dati fisici
+SN_GRIGLIAT,Dati fisici
+SN_OSS_S_NITRI,Dati fisici
+SN_TELECOMANDO,Altro
+STATI,Stato
+SN_GRIG_SPINTA,Dati fisici
+SN_PARAM_OUT,Dati fisici
+SN_TELECONT,Altro
+STEP_TEST,Altro
+SN_GRIG_TRAD,Dati fisici
+SN_PIANO_PARTICEL,Dati fisici
+SN_TELECONT,Altro
+STEUS,Altro
+SN_GR_ELETT,Presenza
+SN_PNT_PRIMARIO,Dati fisici
+SN_TELECONT,Altro
+STORT,Dati geografici
+SN_H2O_GAS,Dati fisici
+SN_POST_ISPES,Dati fisici
+Telecontrollo,Altro
+STRMN,Altro
+SN_IDONEO_VVFF,Altro
+SN_PRECIPIT,Dati fisici
+Telecontrollo,Altro
+STRNO,Dati commerciali
+SN_IDROC_ALOG,Dati fisici
+SN_PREDIS_ALL,Dati fisici
+SN_TERZIARIO,Altro
+STRNO,Dati commerciali
+SN_IMHOFF,Altro
+SN_PRESA_SUCC,Presenza
+SN_TRATTAM_AMPP,Manutenzione
+STRNO_GIS,Dati commerciali
+SN_IMM_CRITICA,Altro
+SN_PRESID,Altro
+SN_TRATT_BIO,Manutenzione
+STRUR,Altro
+SN_INCEN_TERM,Altro
+SN_PREVAL,Dati commerciali
+SN_TRAV_FLUV,Altro
+STRUTTURA,Altro
+SN_INTEGR_SAP,Altro
+SN_PRODUTTIVO,Dati commerciali
+SN_TRIALOM,Altro
+STSMA,Altro
+SN_INTEGR_SAP,Altro
+SN_PRODUZ_GAS,Dati commerciali
+SN_USO_ALTRO,Dati commerciali
+STSMA,Dati commerciali
+SN_INTERRATO,Altro
+SN_PUBBLICA,Dati fisici
+SN_USO_ASL,Altro
+ST_SAP_INT,Dati commerciali
+SN_INV_NORM_COLL,Altro
+SN_RECINZ,Dati fisici
+SN_USO_IDROELET,Altro
+SUBALT_REPERT,Altro
+SN_IRRAG_UV,Altro
+SN_RES_SCA_ION,Altro
+SN_USO_INDUSTR,Altro
+SUBCOD,Codice
+SN_ISPESS,Dati fisici
+SN_RISERVA,Altro
+SN_USO_IRRIGUO,Altro
+SUP_VAS_OSSID,Dati fisici
+SN_ISPEZIONE,Altro
+SN_SALTO,Presenza
+SN_DISINF,Altro
+VIA,Dati geografici
+SUP_VAS_SED_FIN,Dati fisici
+UID,Id
+SN_DISINF_OZON,Manutenzione
+VISIBLE,Altro
+SUP_VAS_SED_PRIM,Dati fisici
+UMID_MEDIA_RES,Dati fisici
+SN_DISOLEAT,Manutenzione
+SN_DIGEST_AEROB,Altro
+SYMB,Altro
+URCOD,Codice
+SN_DISSAB,Manutenzione
+T_RECAPITO,Tipo
+Shape,Altro
+URGRP,Codice
+SN_ELETTRODIAL,Manutenzione
+T_SCARICO,Tipo
+TABELLA_VALORI_FILTRO,Tabelle
+URI,Altro
+SN_ENABLED,Altro
+UBICAZIONE,Dati geografici
+TARIFFA,Dati commerciali
+UUID,Id
+SN_EPIS_INQ,Altro
+TEMPO_DI_ESECUZIONE,Altro
+UUID,Id
+SN_EQUALIZ,Manutenzione
+TYPE,Tipo
+VARIAZIONE,Dati fisici
+WERKS,Altro
+CODICE,Codice
+CODICE_,Codice
+COD_,Codice
+DIM_,Dimensione
+QUOTA,Quota
+D_MAT,Materiale
+D_MATERIALE,Materiale
+D_CATEGORIA,Categoria
+D_CAT,Categoria
+D_FUNZIONE,Funzione
+SUB_FUNZIONE,Funzione
+TABELLA,Tabelle
+COMUNE,Dati geografici
+SN_VASCA_,Altro
+DIST_,Distanza
+NOTE,Descrizione
+D_GESTORE,Altro
+TENSIONE,Dati fisici
+SN_VALORI,Valori
+VALORE,Valori
+SIST_,Sistema
+RECAPITO,Recapiti
+D_RECAP,Recapiti
+MEDIA,Altro
+AVG_,Altro
+SN_CAT,Altro
+D_STATO_,Stato
+PORTING_,Id
+CARICO,Dati fisici
+MATRICOLA,Altro
+MODELLO,Altro
+PESO,Dati fisici
+LUNG_,Lunghezza
+DIAM_,Diametro
+D_DIAM_,Diametro
+ANNO_,Data e ora
+DESCR,Descrizione
+DATAORA_,Data e ora
+DATA_,Data e ora
+GLTRP,Data e ora
+ERDAT,Data e ora
+IEDD,Data e ora
+ISDD,Data e ora
+STRMN,Data e ora
+LTRMN,Data e ora
+ID_,Id
+IDGIS,Id
+VOLUME,Volume
+VOL_,Volume
+SN_DER_,Deroga
+SN_PREL_,Prelievo
+PORTATA,Portata
+PORT_,Portata
+PRES_,Pressione
+PENDENZA,Pendenza
+PROF_,Profondita
+NOME,Denominazione
+DENOM,Denominazione
+A_,Affidabilita
+POTENZA,Potenza
+TIPO_,Tipo
+D_T_,Tipo
+D_TIPO_,Tipo
+SUB_TIPO,Tipo
+AREA_,Area
+ASSORB_,Assorbimento
+ALTEZZA,Altezza
+H_,Altezza
+NUM_,Dati fisici
+N_,Dati fisici
+X,Dati geografici
+Y,Dati geografici
+ANNOTAZIONI,Annotazioni
+D_AMBITO,Altro
+D_STATO,Stato
+GLOBALID,Id
+DIS_CHIUSINO_1,Distanza
+ALT_CANALE,Altezza
+D_GEST_PREC,Categoria
+AUFNR,Altro
+LUNGHEZZA,Lunghezza
+ISDZ,Altro
+DIAMETRO,Diametro
+TAB_NORMATIVA,Tabelle
+D_ASS_CARB_ATT,Dati fisici
+D_DISINFEZIONE,Manutenzione
+TIPO,Tipo
+IS_ADMIN,Altro
+IHNUM,Altro
+VORNR,Altro
+SERIAL_NUMBER,Altro
+D_TIPO,Tipo
+QMNUM,Altro
+TPLNR,Altro
+LABELS,Altro
+SRC_TABLE,Tabelle
+D_DIAMETRO,Diametro
+COSTO_MANUTENZIONE,Costo
+SRC_FIELD,Altro
+FIRSTNAME,Altro
+DISTANZA,Distanza
+VALORI,Valori
+VAL_PIEZO,Valori
+UDATE_SISTEMA,Data e ora
+STATO_SAP,Stato
+AGGR_FUNZ,Funzione
+ARTPR,Altro
+D_CAUSALE,Dati commerciali
+ULTIMO_STATO,Stato
+NAME,Altro
+D_TRASMISSIONE,Dati fisici
+QMDAT,Altro
+ANNO,Data e ora
+ZZAUFNR,Altro
+DISTFONDO,Dati fisici
+COSTO_DISMISSIONE,Costo
+D_AM_STATO,Stato
+GSTRP_F,Altro
+SUBTIPO,Tipo
+D_AREA,Area
+CATEGORIA,Categoria
+D_TRASF_INTERAMBITO,Dati commerciali
+AGGR_FUNC,Funzione
+GSTRP,Altro
+SCENE_DATA,Altro
+COSTO_ACQUISTO,Costo
+SISTEMAPRGA,Sistema
+CAMPO,Altro
+PROFONDITA,Profondita
+OBJECTID,Id
+IEDZ,Altro
+PRESSIONE,Pressione
+MATERIALE,Materiale
+SUP_ISTAT,Altro
+NUMSTRALCIO,Dati fisici
+CURVA,Altro
+COMPLESSITA,Dati fisici
+PEND_TUB_PREL,Pendenza
+DIS_CHIUSINO_2,Distanza
+COSTO,Costo
+D_FUNZ_ORG_CON,Funzione
+COSTO_INSTALLAZIONE,Costo
+ZIDCHIAMATA,Id
+AUART,Altro
+CFG_VALUE,Valori
+ID,Id

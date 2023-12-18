@@ -1,0 +1,43 @@
+{
+  "encoding": "UTF8",
+  "modes": {
+    "read": "r",
+    "write": "w",
+    "append": "a",
+    "readwrite": "r+",
+    "writeread": "w+"
+  },
+  "processor": {
+    "src_error_text_file": ".\\src\\error.txt",
+    "output_error_text_file": ".\\output\\error.txt",
+    "error_fields_file": ".\\output\\errorFields.csv",
+    "group_category_list_file": ".\\src\\GROUP_CATEGORY_LIST.csv",
+    "data_field_names_file": ".\\src\\DATA_FIELDS_NAMES.csv",
+    "data_field_name_tag": "DATA_FIELD_NAME",
+    "dir_files": {
+      "altro": ".\\src\\Altro\\*.csv",
+      "caratteristiche_fisiche": ".\\src\\Caratteristiche Fisiche\\*.csv",
+      "dettagli": ".\\src\\Dettagli\\*.csv"
+    },
+    "all_elements": {
+      "EDITABLE": "EDITABLE",
+      "VISIBLE": "VISIBLE",
+      "NULLABLE": "NULLABLE",
+      "GROUP" : "GROUP",
+      "CATEGORY" : "CATEGORY"
+    },
+    "elements_to_change": {
+      "COLUMN_SETTING": "COLUMN_SETTING",
+      "GRID_SETTING": "GRID_SETTING",
+      "CLASSIFICATION_SETTING": "CLASSIFICATION_SETTING",
+      "RELATION_SETTING": "RELATION_SETTING"
+    },
+    "columnsettingds_open_tag": "<ColumnSettingDS xmln='http://tempuri.org/ColumnSettingsDS.xsd'>",
+    "columnsettingds_close_tag": "</ColumnSettingDS>"
+  },
+  "csvtools": {
+
+  },
+  "wapp": {
+  }
+}
