@@ -7,13 +7,16 @@
         mc:Ignorable="d"
         Title="XML DataSet processor" Height="450" Width="800">
     <Grid Background="White">
-            <StackPanel >
-                <Image Source="https://img.freepik.com/premium-vector/pixel-glass-meme-boss-glass-pixel-like-boss-meme_148553-557.jpg?w=2000" Width="100" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" />
+        <StackPanel>
+                <Image Source="https://i.ibb.co/JdkRbVy/Senza-titolo.png" Width="200" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" />
                 <Label Content="XML DataSet Processor 1.0.0" HorizontalAlignment="Center" FontSize="30" FontFamily="Georgia" ></Label>
-                <Label Content="Enter the path to your XML Files:" HorizontalAlignment="Center" Margin="0,30,0,0"></Label>
+                <Label Content="Specify your XML Files folder:" HorizontalAlignment="Left" Margin="250,30,0,0">
+                </Label>
+                <Button Content="Choose Folder" Click="ChooseFolderButtonClick" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,-25,290,0" />
                 <TextBox x:Name="txtXMLPath" Width="500" Height="30" Margin="10"></TextBox>
                 <Button x:Name="btnProcess" Content="Process" Width="100" Height="30" Margin="10" Click="ProcessDataButtonClick"></Button>
                 <Label x:Name="errorLabel" HorizontalAlignment="Center" Foreground="Firebrick"></Label>
+                <Label Content="(C) K.R." HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Gray"></Label>
             </StackPanel>
             
     </Grid>

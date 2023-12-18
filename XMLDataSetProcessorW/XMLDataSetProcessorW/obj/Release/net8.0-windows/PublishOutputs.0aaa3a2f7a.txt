@@ -1,0 +1,6 @@
+C:\Users\K.Rrapaj\Desktop\FINAL\XMLDataSetProcessorW.exe
+C:\Users\K.Rrapaj\Desktop\FINAL\XMLDataSetProcessorW.dll
+C:\Users\K.Rrapaj\Desktop\FINAL\XMLDataSetProcessorW.deps.json
+C:\Users\K.Rrapaj\Desktop\FINAL\XMLDataSetProcessorW.runtimeconfig.json
+C:\Users\K.Rrapaj\Desktop\FINAL\XMLDataSetProcessorW.pdb
+C:\Users\K.Rrapaj\Desktop\FINAL\Ookii.Dialogs.Wpf.dll

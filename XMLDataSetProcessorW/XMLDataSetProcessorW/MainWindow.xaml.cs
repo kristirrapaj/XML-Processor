@@ -1,16 +1,9 @@
 ﻿using System.Data;
 using System.IO;
-using System.Text;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Microsoft.VisualBasic.FileIO;
+using System.Windows.Forms;
 
 namespace XMLDataSetProcessorW;
 
@@ -29,6 +22,9 @@ public partial class MainWindow : Window
     private const string Visibilities = "VISIBLE";
     private const string Editable = "EDITABLE";
     private const string Nullable = "NULLABLE";
+    
+    private const string ColumnSetting = "COLUMN_SETTING";
+    private const string GridSetting = "GRID_SETTING";
 
     private static List<string?> DataFieldNames = new List<string?>();
     private static List<string?> Groups = new List<string?>();
@@ -43,6 +39,23 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
+    }
+    
+    private void ChooseFolderButtonClick(object sender, RoutedEventArgs e)
+    {
+        using (FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog())
+        {
+            folderBrowserDialog.Description = "Select a folder";
+
+            // Show the dialog and check if the user selected a folder
+            DialogResult result = folderBrowserDialog.ShowDialog();
+
+            if (result == System.Windows.Forms.DialogResult.OK)
+            {
+                string selectedFolder = folderBrowserDialog.SelectedPath;
+                txtXMLPath.Text = selectedFolder;
+            }
+        }
     }
 
     private void ProcessDataButtonClick(object sender, RoutedEventArgs e)
@@ -88,7 +101,6 @@ public partial class MainWindow : Window
             errorLabel.Content += "\nProcessing file: " + file;
             errorLabel.Foreground = Brushes.Green;
             AddColumns(file, dataSet);
-            SetColumns(file, dataSet);
         }
 
         private static void SetColumns(string file, DataSet dataSet)
@@ -114,33 +126,26 @@ public partial class MainWindow : Window
 
         private static void AddColumns(string file, DataSet dataSet)
         {
-            if (dataSet.Tables[0].Columns.Contains(Category) && dataSet.Tables[0].Columns.Contains(Group))
+            foreach (DataTable table  in dataSet.Tables)
             {
-                return;
-            }
-            dataSet.Tables[0].Columns.Add(Category, typeof(string));
-            dataSet.Tables[0].Columns.Add(Group, typeof(string));
-
-            foreach (DataRow row in dataSet.Tables[0].Rows)
-            {
-                row["CATEGORY"] = "";
-                row["GROUP"] = "";
-            }
-            dataSet.WriteXml(file);
-        }
-
-        private void CheckPath()
-        {
-            
-                if (XMLFilesPath == null || !Directory.Exists(XMLFilesPath))
+                Console.WriteLine(table.ToString());
+                if (table.ToString() == ColumnSetting)
                 {
-                    errorLabel.Content = "Please enter a valid XML path";
-                }
-
-                if (DataPath == null || !Directory.Exists(DataPath))
+                    if (table.Columns.Contains(Category) && table.Columns.Contains(Group))
+                    {
+                        return;
+                    }
+                    
+                    table.Columns.Add(Category);
+                    table.Columns.Add(Group);
+                    
+                    SetColumns(file, dataSet);
+                } else if (table.ToString() == GridSetting)
                 {
-                    errorLabel.Content = "Please enter a valid DATA path";
+                    dataSet.Tables.Remove(table);
+                    dataSet.Tables.Add(table);
                 }
-            
+                dataSet.WriteXml(file);
+            }
         }
 }
